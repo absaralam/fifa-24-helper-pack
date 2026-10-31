@@ -141,4 +141,4 @@ simply how these tools work in practice.
 
 ---
 
-*fifa-24-helper-pack · Updated 2026-10-30 · Shared under the MIT License*
+*fifa-24-helper-pack · Updated 2026-10-31 · Shared under the MIT License*
